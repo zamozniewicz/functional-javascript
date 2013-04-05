@@ -2,7 +2,7 @@
 
 Introduction to functional programming in JavaScript and [underscore.js](http://underscorejs.org/) / [Lo-Dash](http://lodash.com/) libraries.
 
-Slides can be seen at (http://zamozniewicz.pl/demo/functional-javascript/).
+Slides can be seen at http://zamozniewicz.pl/demo/functional-javascript/.
 
 Slides have been prepared for the purposes of internal [Cognifide](http://www.cognifide.com/) presentation.
 
