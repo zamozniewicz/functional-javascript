@@ -1,7 +1,10 @@
-# Slides for a talk about functional programming in JavaScript @ [cognifide](https://github.com/cognifide)
+# Slides for a talk about functional programming in JavaScript @[cognifide](https://github.com/cognifide)
 
 Introduction to functional programming in JavaScript and [underscore.js](http://underscorejs.org/) / [Lo-Dash](http://lodash.com/) libraries.
-Slides have been prepared for the purposed of internal [Cognifide](http://www.cognifide.com/) presentation.
+
+Slides can be seen at (http://zamozniewicz.pl/demo/functional-javascript/).
+
+Slides have been prepared for the purposes of internal [Cognifide](http://www.cognifide.com/) presentation.
 
 ## Sources
 
