@@ -8,8 +8,6 @@ Slides have been prepared for the purposes of internal [Cognifide](http://www.co
 
 ## Sources
 
-All sources are linked in
-
 * http://brendaneich.com/
 * http://www.2ality.com/
 * http://www.crockford.com/
